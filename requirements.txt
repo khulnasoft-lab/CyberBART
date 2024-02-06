@@ -24,7 +24,7 @@ click==7.1.2
 cloudpickle==1.6.0
 configparser==5.0.1
 cpgqls-client==0.0.7
-cryptography==41.0.6
+cryptography==42.0.0
 cssselect==1.1.0
 cycler==0.10.0
 dacite==1.6.0
